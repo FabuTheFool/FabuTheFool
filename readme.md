@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebDevelpment<br>👯 I’m looking to collaborate on Webs and Cool Stuff<br>🤝 I’m looking for help with Java and React<br>🌱 I’m currently learning Java<br>💬 Ask me about HTML- CSS and JavaScript :D<br>⚡ Fun fact I did Youtube and Twitch for a while
+🔭 I’m currently working on WebDevelpment<br>👯 I’m looking to collaborate on Webs and Cool Stuff<br>🤝 I’m looking for help with Java and Vue.js<br>🌱 I’m currently learning Java<br>💬 Ask me about HTML- CSS and JavaScript :D<br>⚡ Fun fact I did Youtube and Twitch for a while
 
 
 # 💻 Tech Stack:
