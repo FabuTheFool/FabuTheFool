@@ -10,7 +10,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FabuTheFool&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabuTheFool&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=fabuthefool&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/FabuTheFool"
+  width="600"
+  height="300"
+/>
+</a>
