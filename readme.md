@@ -15,7 +15,7 @@
 [![](https://visitcount.itsvg.in/api?id=fabuthefool&label=Profile%20Views&color=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://github.com/devxb/gitanimals">
+<a href="#">
 <img
   src="https://render.gitanimals.org/farms/FabuTheFool"
   width="600"
